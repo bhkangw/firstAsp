@@ -1,0 +1,9 @@
+/Users/bkila/Desktop/firstAsp/bin/Debug/netcoreapp1.1/firstAsp.deps.json
+/Users/bkila/Desktop/firstAsp/bin/Debug/netcoreapp1.1/firstAsp.runtimeconfig.json
+/Users/bkila/Desktop/firstAsp/bin/Debug/netcoreapp1.1/firstAsp.runtimeconfig.dev.json
+/Users/bkila/Desktop/firstAsp/bin/Debug/netcoreapp1.1/firstAsp.dll
+/Users/bkila/Desktop/firstAsp/bin/Debug/netcoreapp1.1/firstAsp.pdb
+/Users/bkila/Desktop/firstAsp/obj/Debug/netcoreapp1.1/firstAsp.csproj.CoreCompileInputs.cache
+/Users/bkila/Desktop/firstAsp/obj/Debug/netcoreapp1.1/firstAsp.AssemblyInfo.cs
+/Users/bkila/Desktop/firstAsp/obj/Debug/netcoreapp1.1/firstAsp.dll
+/Users/bkila/Desktop/firstAsp/obj/Debug/netcoreapp1.1/firstAsp.pdb
