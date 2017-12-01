@@ -6,10 +6,10 @@ namespace firstAsp.Controllers
     public class HomeController : Controller
     {
         [HttpGetAttribute]
-        [Route("/{fname}/{lname}/{age}/{color}")]
-        public JsonResult Index(string fname, string lname, string age, string color)
+        [Route("")]
+        public IActionResult Index()
         {
-            return Json(new {FirstName = fname, LastName = lname, Age = age, FavoriteColor = color});
+            return View();
         }
     }
 }
