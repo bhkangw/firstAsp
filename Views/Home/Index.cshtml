@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- @using System -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +9,8 @@
 </head>
 <body>
     The current time & date:
-    @{DateTime CurrentTime = DateTime.Now;}
+    @{DateTime CurrentTime = DateTime.Now;
+        CurrentTime.ToString("yyyyMMddHHmmss");}
     @CurrentTime
 </body>
 </html>
